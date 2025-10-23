@@ -1,0 +1,10 @@
+echo "1. git init - Initialize a new Git repository" > commands.txt
+echo "2. git clone - Copy an existing repository" >> commands.txt
+echo "3. git status - Show changes" >> commands.txt
+echo "4. git add - Stage files for commit" >> commands.txt
+echo "5. git commit - Save staged changes" >> commands.txt
+echo "6. git push - Upload commits to remote repo" >> commands.txt
+echo "7. git pull - Get latest changes" >> commands.txt
+echo "8. git branch - List or create branches" >> commands.txt
+echo "9. git checkout - Switch branches" >> commands.txt
+echo "10. git merge - Combine branches" >> commands.txt
